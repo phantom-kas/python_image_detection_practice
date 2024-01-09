@@ -1,0 +1,11 @@
+filepath,xmin,ymin,xmax,ymax
+./learning_imgs\N1.xml,1091,644,1401,736
+./learning_imgs\N11.xml,129,128,189,146
+./learning_imgs\N12.xml,972,667,1283,763
+./learning_imgs\N2.xml,1792,1717,2499,1877
+./learning_imgs\N3.xml,70,383,264,467
+./learning_imgs\N4.xml,1328,1467,1851,1612
+./learning_imgs\N5.xml,933,708,1174,767
+./learning_imgs\N6.xml,857,608,1127,679
+./learning_imgs\N8.xml,763,1670,1529,1858
+./learning_imgs\N9.xml,139,52,441,165

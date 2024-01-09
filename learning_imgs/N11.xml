@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images only</folder>
+	<filename>N11.jpeg</filename>
+	<path>C:\Users\Lenovo\Videos\tut\[ DevCourseWeb.com ] Udemy - YOLO - Automatic License Plate Detection and Extract text App\~Get Your Files Here !\02 - Labeling\images only\N11.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number_late</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>128</ymin>
+			<xmax>189</xmax>
+			<ymax>146</ymax>
+		</bndbox>
+	</object>
+</annotation>
